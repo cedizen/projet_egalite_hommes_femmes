@@ -1,7 +1,7 @@
 # Projet: Analyse des indicateurs de l'égalité hommes/femmes
 
 ## Objectif:
-Réaliser un diagnostic sur l'égalité homme/femmes au sein d'une entreprise sur basé sur des indicateurs clés en conformité avec le RGPD
+Réaliser un diagnostic sur l'égalité homme/femmes au sein d'un cabinet de consultants sur basé sur des indicateurs clés en conformité avec le RGPD
 
 ## Indicateurs clés retenus:
 - EMBAUCHE  
