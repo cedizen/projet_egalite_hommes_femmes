@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Projet: Analyse des indicateurs de l'égalité hommes/femmes
 
 ## Objectif:
